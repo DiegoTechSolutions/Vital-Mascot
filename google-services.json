@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304440780736",
+    "project_id": "tienda-mascota-7c948",
+    "storage_bucket": "tienda-mascota-7c948.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304440780736:android:01ebdb05db5c7fb75a4a25",
+        "android_client_info": {
+          "package_name": "com.vcm.adoptamascota"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9K3oZWh0tWXKSyOnRYWZogmdBtwvE5nU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

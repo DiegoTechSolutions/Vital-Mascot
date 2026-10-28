@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "304440780736",
+    "project_id": "tienda-mascota-7c948",
+    "storage_bucket": "tienda-mascota-7c948.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304440780736:android:01ebdb05db5c7fb75a4a25",
+        "android_client_info": {
+          "package_name": "com.vcm.adoptamascota"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304440780736-j51h10610bl3msamcuagmavk17dq7srh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vcm.adoptamascota",
+            "certificate_hash": "1aa603731768104252f5c06259a3151df378b481"
+          }
+        },
+        {
+          "client_id": "304440780736-j1jv83dvk74n6371nlpimcttkgoumte2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9K3oZWh0tWXKSyOnRYWZogmdBtwvE5nU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304440780736-j1jv83dvk74n6371nlpimcttkgoumte2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
